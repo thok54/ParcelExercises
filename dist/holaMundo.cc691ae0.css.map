@@ -1,0 +1,1 @@
+{"version":3,"sources":["mystyles.scss"],"names":[],"mappings":"AAAA;EACE;EACC;EACA;;;AAGH;EACE;EACA","file":"holaMundo.cc691ae0.css","sourceRoot":"../src","sourcesContent":["hi {\n  font-style: italic;\n   font-size: 50px;\n   color: blue;\n  }\n\nimg {\n  display: block;\n  width: 500px;\n}\n"]}
